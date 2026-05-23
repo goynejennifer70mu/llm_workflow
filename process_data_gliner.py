@@ -13,11 +13,8 @@ os.environ["HF_HUB_OFFLINE"] = "1"
 # ---------------------------------------------------
 # MODEL PATH
 # ---------------------------------------------------
-MODEL_PATH = (
-    r"C:\Users\goynej\.cache\huggingface\hub\models--urchade--gliner_medium-v2.1"
-    r"\snapshots\40ec419335d09393f298636f471328b722c6da9e"
-)
-
+MODEL_PATH = ("")
+-- add model path
 # ---------------------------------------------------
 # LOAD GLINER MODEL
 # ---------------------------------------------------
